@@ -1,0 +1,16 @@
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\bin\Debug\net8.0\TechBlog.Entity.deps.json
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\bin\Debug\net8.0\TechBlog.Entity.dll
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\bin\Debug\net8.0\TechBlog.Entity.pdb
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\bin\Debug\net8.0\TechBlog.Core.dll
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\bin\Debug\net8.0\TechBlog.Core.pdb
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.csproj.AssemblyReference.cache
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.AssemblyInfoInputs.cache
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.AssemblyInfo.cs
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.sourcelink.json
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.8F454FD3.Up2Date
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.dll
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\refint\TechBlog.Entity.dll
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\TechBlog.Entity.pdb
+C:\Users\kenna\Source\Repos\nArchitecture.TechBlog\TechBlog.Entity\obj\Debug\net8.0\ref\TechBlog.Entity.dll

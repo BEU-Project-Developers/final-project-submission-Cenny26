@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenna\\source\\repos\\nArchitecture.TechBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CC80D0-FB9F-4795-921A-8E945C675773}|TechBlog.Web\\TechBlog.Web.csproj|c:\\users\\kenna\\source\\repos\\narchitecture.techblog\\techblog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CC80D0-FB9F-4795-921A-8E945C675773}|TechBlog.Web\\TechBlog.Web.csproj|solutionrelative:techblog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenna\\source\\repos\\nArchitecture.TechBlog\\TechBlog.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TechBlog.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\kenna\\source\\repos\\nArchitecture.TechBlog\\TechBlog.Web\\Program.cs",
+              "RelativeToolTip": "TechBlog.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:30:45.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

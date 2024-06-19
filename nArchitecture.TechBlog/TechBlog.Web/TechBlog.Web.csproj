@@ -1,0 +1,69 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="wwwroot\images\user-images\**" />
+      <Content Remove="wwwroot\images\user-images\**" />
+      <EmbeddedResource Remove="wwwroot\images\user-images\**" />
+      <None Remove="wwwroot\images\user-images\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Areas\Admin\Views\SocialMedia\DeletedSocialMediaAccounts.cshtml" />
+      <Content Remove="Views\Home\ComingSoon.cshtml" />
+      <Content Remove="Views\Home\Search.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TechBlog.DataAccess\TechBlog.DataAccess.csproj" />
+      <ProjectReference Include="..\TechBlog.Service\TechBlog.Service.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0-preview.1.24081.2">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+      <PackageReference Include="NToastNotify" Version="8.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\images\article-images\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Views\Home\Search.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Areas\Admin\Views\SocialMedia\DeletedSocialMediaAccounts.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Home\ComingSoon.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Home\Search.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="Areas\Admin\Views\SocialMedia\DeletedSocialMediaAccounts.cshtml" />
+      <None Include="Views\Home\ComingSoon.cshtml" />
+      <None Include="Views\Home\Search.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Views\Home\ComingSoon.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Areas\Admin\Views\SocialMedia\DeletedSocialMediaAccounts.cshtml" />
+    </ItemGroup>
+
+</Project>
